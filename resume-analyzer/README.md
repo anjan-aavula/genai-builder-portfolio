@@ -14,7 +14,7 @@ This project is a simple **Retrieval-Augmented Generation (RAG)** application th
 
 1. **Load Resume**
 
-   * Extracts text from your PDF
+   * Extracts text from your document
 
 2. **Chunking**
 
