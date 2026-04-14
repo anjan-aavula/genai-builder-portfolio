@@ -88,7 +88,7 @@ python app.py
 
 ## ⚠️ Notes
 
-* Works best with text-based PDFs
+* Works best with text-based documents
 * Avoid scanned resumes (OCR not included)
 * Embeddings cost is low but not free
 
@@ -110,7 +110,7 @@ python app.py
 * OpenAI API
 * FAISS (vector search)
 * NumPy
-* PyPDF
+* python-docx
 
 ---
 

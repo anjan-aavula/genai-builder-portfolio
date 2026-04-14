@@ -62,7 +62,7 @@ def ask_question(query, chunks, index, k=3):
 
 def main():
     print("Loading resume...")
-    resume_text = load_resume("anjan_resume.docx")
+    resume_text = load_resume("resume.docx")
 
     print("Chunking...")
     chunks = chunk_text(resume_text)
